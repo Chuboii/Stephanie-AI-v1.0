@@ -141,7 +141,7 @@ img{
 }
 .app-body{
     background-color: #131312;
-    width: 100%;
+    
     
     
     display: none;
@@ -149,7 +149,7 @@ img{
 }
 
 .app-body header{
-    width: 100%;
+    
     background-color: #111727;
     color: #36e2e6;
     display: flex;
