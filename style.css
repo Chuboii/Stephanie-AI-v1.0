@@ -143,9 +143,7 @@ img{
     background-color: #131312;
     width: 100%;
     
-    position: fixed;
-top:0;
-bottom:0;
+    
     display: none;
     
 }
