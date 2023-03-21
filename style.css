@@ -143,13 +143,12 @@ img{
     background-color: #131312;
     
     
-    
+    width:100%;
     display: none;
     
 }
 
 .app-body header{
-    
     background-color: #111727;
     color: #36e2e6;
     display: flex;
@@ -160,7 +159,7 @@ img{
     height: 2rem;
     top:0;
     left:0;
-Z-index:1;
+    z-index:1;
     right:0;
 }
 
