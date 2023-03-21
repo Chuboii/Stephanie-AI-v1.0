@@ -159,6 +159,9 @@ img{
     padding: 1rem;
     align-items: center;
     height: 2rem;
+    top:0;
+    left:0;
+    right:0;
 }
 
 .app-body header .icons{
